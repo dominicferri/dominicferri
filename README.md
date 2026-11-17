@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Dom</h1>
-
 <p align="center">
-  IT support and systems administration · Mac admin and security tools in Rust · Open to remote work (US)
+  IT support and systems administration · Mac admin and security tools in Rust, AI Engineer. · Open to remote work (US)
 </p>
 
 <p align="center">
@@ -80,4 +78,4 @@ A Rust replacement for the postinstall script in Microsoft's Office for Mac Lice
 
 ## Contact
 
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/dominic-f-/) or email at [dominic.j.ferri@gmail.com](mailto:dominic.j.ferri@gmail.com). If one of these tools saved you some time, or broke on your Mac, I would like to hear about it either way.
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/dominic-f-/), If one of these tools saved you some time, or broke on your Mac, I would like to hear about it either way.
