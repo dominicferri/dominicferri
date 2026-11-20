@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dominic-f-/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:157044394+dominicferri@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-say%20hello-C00027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Remote%20(US)-open%20to%20work-2EA043?style=for-the-badge" alt="Open to remote work in the US">
 </p>
 
@@ -80,4 +79,4 @@ A Rust replacement for the postinstall script in Microsoft's Office for Mac Lice
 
 ## Contact
 
-The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/dominic-f-/) or email at [157044394+dominicferri@users.noreply.github.com](mailto:157044394+dominicferri@users.noreply.github.com). If one of these tools saved you some time, or broke on your Mac, I would like to hear about it either way.
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/dominic-f-/). If one of these tools saved you some time, or broke on your Mac, I would like to hear about it either way.
