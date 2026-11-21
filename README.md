@@ -9,16 +9,6 @@
   <img src="https://img.shields.io/badge/Remote%20(US)-open%20to%20work-2EA043?style=for-the-badge" alt="Open to remote work in the US">
 </p>
 
-## About me
-
-I work in IT support and systems administration, and I build the tools I needed on the job and could not find. Since 2023 I have done Level 2 and 3 support across macOS and Windows, with Jamf, Microsoft 365, Google Workspace and Entra ID behind it. A lot of that work was the same check done by hand on one Mac after another, so I started writing tools that run the check and tell me what they found.
-
-Most of what is public here is read-only on purpose. When someone hands me a Mac with a problem, I want to know what is wrong before I change anything, and I think a tool that reports "healthy" when it could not finish its checks is worse than no tool at all. That is why mactriage says its scan was incomplete instead of staying quiet about it.
-
-I also help run a hands-on lab that is used to teach security. It is a five-node Proxmox cluster, and my part of it has been the Linux services, the WireGuard VPN, the backups and the monitoring with Wazuh, Zabbix and Loki.
-
-Before IT, I spent ten years in Marine Corps aviation, flying, quality assurance and safety. That is where I learned to inspect the work and write it down so the next person can follow it, and I still work that way. I will earn two bachelor's degrees in Cybersecurity and Computer Science in Dec 2026.
-
 ## Projects
 
 <a href="https://github.com/dominicferri/mactriage"><img src="https://raw.githubusercontent.com/dominicferri/mactriage/main/docs/images/banner.svg" alt="mactriage" width="100%"></a>
