@@ -49,6 +49,32 @@ A Rust replacement for the postinstall script in Microsoft's Office for Mac Lice
 
 <a href="https://github.com/dominicferri/office-license-removal"><img src="https://raw.githubusercontent.com/dominicferri/office-license-removal/main/docs/images/terminal-ui.png" width="720" alt="The Office License Removal terminal UI in lab mode after a remove"></a>
 
+<a href="https://github.com/dominicferri/MacCleanUp"><img src="https://raw.githubusercontent.com/dominicferri/MacCleanUp/main/docs/images/banner.svg" alt="MacCleanUp" width="100%"></a>
+
+<p>
+  <img src="https://img.shields.io/github/v/release/dominicferri/MacCleanUp?style=flat-square&labelColor=000000&color=F4BD47" alt="Latest MacCleanUp release">
+  <img src="https://img.shields.io/github/last-commit/dominicferri/MacCleanUp?style=flat-square&labelColor=000000&color=C00027" alt="Last MacCleanUp commit">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Trash%20only-000000?style=flat-square" alt="Moves items only to the Trash">
+</p>
+
+A native cleanup app for Macs with Apple silicon, written in Rust. It shows where the space on the startup disk goes. It finds caches, leftover installers, large old files and build folders, and moves only what you review to the Trash. It is one self-contained app, so it also runs straight from a disk image or a thumb drive.
+
+<a href="https://github.com/dominicferri/MacCleanUp"><img src="https://raw.githubusercontent.com/dominicferri/MacCleanUp/main/docs/screenshots/storage.png" width="720" alt="The MacCleanUp Storage view: each part of the startup disk with its size"></a>
+
+<a href="https://github.com/dominicferri/cups-web-interface"><img src="https://raw.githubusercontent.com/dominicferri/cups-web-interface/main/docs/images/banner.svg" alt="CUPS webui" width="100%"></a>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/dominicferri/cups-web-interface?style=flat-square&labelColor=000000&color=C00027" alt="Last cups-web-interface commit">
+  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/local%20only-000000?style=flat-square" alt="Local only">
+</p>
+
+macOS 27 removed the CUPS web page at localhost:631, the place to manage printers and print queues in a browser. This is PaperCut's open-source replacement, packaged for the Mac. It adds a double-click installer, a server that runs only while the page is open, and a set of bug, security and speed fixes. It is an unofficial packaging, not published or supported by PaperCut.
+
+<a href="https://github.com/dominicferri/cups-web-interface"><img src="https://raw.githubusercontent.com/dominicferri/cups-web-interface/main/docs/screenshot.png" width="720" alt="The CUPS webui dashboard in mock mode, with the printers and queues table"></a>
+
 ## What I work with
 
 <p>
