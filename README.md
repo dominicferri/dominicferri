@@ -75,24 +75,6 @@ macOS 27 removed the CUPS web page at localhost:631, the place to manage printer
 
 <a href="https://github.com/dominicferri/cups-web-interface"><img src="https://raw.githubusercontent.com/dominicferri/cups-web-interface/main/docs/screenshot.png" width="720" alt="The CUPS webui dashboard in mock mode, with the printers and queues table"></a>
 
-## What I work with
-
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows,linux,rust,py,bash,powershell,swift,go,js,docker,postgres,nginx,cloudflare,git,github&perline=8" alt="Apple, Windows, Linux, Rust, Python, Bash, PowerShell, Swift, Go, JavaScript, Docker, PostgreSQL, nginx, Cloudflare, Git, GitHub"></a>
-</p>
-
-| Area | What I use |
-|---|---|
-| Endpoints | macOS and Windows 10/11, Jamf Pro, Microsoft 365, Google Workspace, Entra ID and Active Directory, Duo |
-| Systems | Linux (Debian, Ubuntu, Fedora, Kali), Proxmox VE, Docker, WireGuard, Tailscale, nginx, PostgreSQL |
-| Security and monitoring | Wazuh, Suricata, Zeek, Loki and Grafana, Zabbix |
-| Languages | Rust, Python, Bash and zsh, PowerShell, Swift, Go |
-
-## What I'm working on now
-
-- Finishing two bachelor's degrees, Cybersecurity and Computer Science, in Dec 2026.
-- Looking for a full-time remote role (US) in endpoint engineering, systems administration or security.
-
 ## Contact
 
 The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/dominic-f-/). If one of these tools saved you some time, or broke on your Mac, I would like to hear about it either way.
