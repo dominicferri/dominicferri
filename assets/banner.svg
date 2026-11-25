@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Hi, I'm Dom</title>
+  <desc id="banner-desc">AI engineering: agent tooling, MCP servers and model review, mostly in Rust.</desc>
+  <rect width="1280" height="320" fill="#000000"/>
+  <rect x="0" y="0" width="14" height="320" fill="#C00027"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="96" y="170" fill="#F4BD47" font-size="104" font-weight="700" letter-spacing="-2">Hi, I'm Dom</text>
+    <text x="100" y="228" fill="#FFFFFF" font-size="30">AI engineering · agent tooling · MCP servers · Rust</text>
+  </g>
+  <g transform="translate(1090 160)" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="3">
+    <line x1="0" y1="0" x2="0" y2="-88"/>
+    <line x1="0" y1="0" x2="76" y2="-44"/>
+    <line x1="0" y1="0" x2="76" y2="44"/>
+    <line x1="0" y1="0" x2="0" y2="88"/>
+    <line x1="0" y1="0" x2="-76" y2="44"/>
+    <line x1="0" y1="0" x2="-76" y2="-44"/>
+    <g stroke="none">
+      <circle cx="0" cy="0" r="22" fill="#F4BD47"/>
+      <circle cx="0" cy="-88" r="12" fill="#C00027"/>
+      <circle cx="76" cy="-44" r="12" fill="#F4BD47" fill-opacity="0.6"/>
+      <circle cx="76" cy="44" r="12" fill="#FFFFFF" fill-opacity="0.45"/>
+      <circle cx="0" cy="88" r="12" fill="#C00027"/>
+      <circle cx="-76" cy="44" r="12" fill="#F4BD47" fill-opacity="0.6"/>
+      <circle cx="-76" cy="-44" r="12" fill="#FFFFFF" fill-opacity="0.45"/>
+    </g>
+  </g>
+</svg>
