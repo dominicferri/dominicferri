@@ -32,7 +32,7 @@ I work in support and systems administration, and most of what I build now is th
 
 ```mermaid
 flowchart LR
-  Q["One question"] --> M["16 models answer"]
+  Q["One question"] --> M["Several models answer"]
   M --> C["Each claim checked against the code"]
   C --> F["Fix with a test"]
   F --> P["Old and new build run side by side"]
@@ -41,7 +41,7 @@ flowchart LR
   L --> R["Permanent rule"]
 ```
 
-The models miss different things. Ten of them reviewed the CUPS webui further down this page. One bug showed up in only one of the ten reviews, and the work ended in 19 fixes. After a fix, the old build runs first as a control. If the old build does not show the fault, the check is wrong and gets fixed before anything else. When something still goes wrong, it goes into a mistakes log. A mistake that shows up three times becomes a rule that every agent loads.
+The models miss different things. In one review, ten models answered, and one bug showed up in only one of the ten reviews. That review ended in 19 fixes. After a fix, the old build runs first as a control. If the old build does not show the fault, the check is wrong and gets fixed before anything else. When something still goes wrong, it goes into a mistakes log. A mistake that shows up three times becomes a rule that every agent loads.
 
 ## Selected private work
 
