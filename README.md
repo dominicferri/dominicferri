@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Dom. AI engineering: agent tooling, MCP servers and model review, mostly in Rust">
+  <img src="https://raw.githubusercontent.com/dominicferri/dominicferri/main/assets/banner.svg" width="100%" alt="Hi, I'm Dom. AI engineering: agent tooling, MCP servers and model review, mostly in Rust">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Rust-170k%2B%20lines-F4BD47?style=flat-square&logo=rust&logoColor=white&labelColor=000000" alt="170,000+ lines of Rust">
   <img src="https://img.shields.io/badge/tests-2%2C600%2B%20functions-F4BD47?style=flat-square&labelColor=000000" alt="2,600+ test functions">
   <img src="https://img.shields.io/badge/models-16%20from%206%20providers-C00027?style=flat-square&labelColor=000000" alt="16 models from 6 providers">
-  <img src="https://img.shields.io/badge/repositories-170%2B%2C%20mostly%20private-C00027?style=flat-square&labelColor=000000" alt="170+ repositories, most of them private">
+  <img src="https://img.shields.io/badge/repositories-170%2B%20mostly%20private-C00027?style=flat-square&labelColor=000000" alt="170+ repositories, most of them private">
 </p>
 
 ## What I build
