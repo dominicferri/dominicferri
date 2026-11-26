@@ -64,6 +64,8 @@ These repositories are private, so the tables have no links.
 | Log readers | Read-only scanner and MCP server for the Loki log store in my homelab | Rust |
 | Product and stock finder | Finds the lowest verified price across more than 40 US retailers and six pharmacies. It checks the winning page again live and never buys or logs in | Rust |
 | whisper-transcribe | Drag-and-drop transcription and summary on macOS with the large-v3 model | whisper.cpp, shell |
+| AdvisingGrid | Degree planner for university students and advisors. A student picks majors and drags courses into semesters. The planner refuses any placement that breaks a catalog rule and shows the reason | TypeScript, React, Python, Cloudflare Workers |
+| AdvisingGrid for macOS | The same planner as an offline Mac app. It is one Rust binary that shows the built planner in a WebKit window, so it runs with no network connection | Rust, WebKit |
 
 | Systems and security tools | What it does | Built with |
 |---|---|---|
