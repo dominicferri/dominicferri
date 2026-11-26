@@ -74,6 +74,15 @@ These repositories are private, so the tables have no links.
 | MetaScope | File metadata and forensic inspection in a terminal UI and a native app. Everything stays on the machine | Rust |
 | nab | Wi-Fi and home network diagnostics in a terminal UI | Rust |
 
+The first three rows below are my work on a university's teaching cyber range.
+
+| Security lab work | What it does | Built with |
+|---|---|---|
+| Malware Analysis Lab | Three blue-team labs, run in order. Each one has a replica of a real campaign under fake names, a fixed evidence set and a scored grader. The last lab has no attacker at all, so students judge the alert tools instead | Python, Sigma, YARA |
+| Student lab kits | Scripts that give each student in a course a VM of their own, with accounts and a WireGuard peer. The exfiltration lab runs one shared instructor C2 and a firewall-isolated Windows victim for each student | Shell, Python, Proxmox VE |
+| Range operator tools | Eight Rust tools that log logins and WireGuard sessions, check the HAProxy and Docker setups, mail each Wazuh alert and run a daily CVE scan. The set also has the VPN gateway manager and a generator for the topology docs | Rust, Python, Wazuh, Zabbix |
+| AHR honeypot | A honeypot built as a believable healthcare software company. It studies how real attackers move through it, and how AI agents decide whether a website's own text lets them test it. Visitor input never reaches a real shell | TypeScript, Python, PostgreSQL |
+
 The line and test counts at the top come from 29 of my own projects, counted on 2026-11-25. Lines are the Rust in the files git tracks, without build output or lockfiles. Tests are test functions found by pattern, not the result of a test run.
 
 ## Support and sysadmin tools
