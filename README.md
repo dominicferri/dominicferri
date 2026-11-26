@@ -178,6 +178,17 @@ macOS 27 removed the CUPS web page at localhost:631, the place to manage printer
 
 </details>
 
+These came out of the same work and are private, so they have no links.
+
+| Private support tools | What it does | Built with |
+|---|---|---|
+| azure-graph-gui | One double-click file that opens a form in Terminal for Entra ID help-desk tasks. You type a username, pick an action such as a phone change, an MFA re-register or a new passkey, and check a preview. The change then runs through Microsoft Graph and leaves an audit line | Shell, Microsoft Graph |
+| User offboarding | A PowerShell script disables each Active Directory account on its scheduled date. It saves the account's groups first, then removes them. An Apps Script then suspends the Google account, signs out every session and takes the user off the shared drives. When it runs out of time, it picks up where it stopped | PowerShell, Google Apps Script |
+| PathifyScreenCloud | Pulls the approved campus events from Pathify, keeps the ones inside the signage window and publishes them as event feeds to ScreenCloud | Python, JavaScript, Docker |
+| pdf2gform | Turns flat PDF forms that cannot be filled in into Google Forms. Two programs share one Rust parser, one through Apps Script and one through the Forms API, so both build the same questions | Rust, Apps Script, Google Forms API |
+| USBInstaller | Keeps ten software installers current on a Mac and syncs them to the IT USB drives. It downloads over HTTPS only, checks each installer's code signature and uses a pairing step, so the wrong computer cannot sync to a drive | Python, shell |
+| ShuttleGPS | Rebuilt a campus shuttle's route files from the schedule PDF and the old route CSV. It adds a point at least every 20 m and checks each route against OpenStreetMap and two separate routing engines | Python |
+
 ## What I work with
 
 <p>
