@@ -28,6 +28,10 @@ I work in support and systems administration, and most of what I build now is th
 - **Tests an agent can read.** A headless terminal captures what a program drew as an image, as text and as data. An agent can then check an interface without taking over my screen.
 - **Local models.** Speech to text on whisper.cpp, image generation on MLX and a document index on LanceDB, all on an Apple Silicon Mac.
 
+This is UI-Test-Mac, one of the private projects listed further down, testing the calculator bc. It runs bc on a terminal that no window shows, types 6*7 and waits until 42 is on the screen. Then it quits and prints what the screen held at the end, so the result can be read as text.
+
+<p align="center"><img src="https://raw.githubusercontent.com/dominicferri/dominicferri/main/assets/demo.gif" alt="Terminal demo: UI-Test-Mac runs the calculator bc on a hidden terminal, types 6*7, waits for 42 and reports PASS with the final screen." width="720"></p>
+
 ## How a change gets accepted
 
 ```mermaid
@@ -162,6 +166,12 @@ macOS 27 removed the CUPS web page at localhost:631, the place to manage printer
 <a href="https://github.com/dominicferri/cups-web-interface"><img src="https://raw.githubusercontent.com/dominicferri/cups-web-interface/main/docs/screenshot.png" width="720" alt="The CUPS webui dashboard in mock mode, with the printers and queues table"></a>
 
 </details>
+
+## What I work with
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=apple,windows,linux,rust,py,bash,powershell,swift,go,js,ts,docker,postgres,nginx,cloudflare,git,github&perline=9" alt="Apple, Windows, Linux, Rust, Python, Bash, PowerShell, Swift, Go, JavaScript, TypeScript, Docker, PostgreSQL, nginx, Cloudflare, Git, GitHub"></a>
+</p>
 
 ## Contact
 
